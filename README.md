@@ -23,7 +23,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [~~Sofi~~](https://www.sofi.com/careers/job/?gh_jid=5110537003) | Seattle, San Francisco, Murrah | Software Development Engineer, New Grad |
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
-| [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
+| [Amazon (SDE DONE)](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
 | [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
@@ -59,4 +59,4 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Old Mission](https://www.oldmissioncapital.com/careers/?gh_jid=5193176003)  | Multiple locations  | College Graduates - Full-Time - Junior Software Engineer |
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [Audible](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
-| [Argano - DONE](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
+| [Argano](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
